@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Ball -->
+  <circle cx="16" cy="16" r="15" fill="#C8E620" stroke="#A8C418" stroke-width="1"/>
+  <!-- Holes -->
+  <circle cx="10" cy="9"  r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="17" cy="7"  r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="24" cy="10" r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="7"  cy="16" r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="14" cy="15" r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="21" cy="16" r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="27" cy="15" r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="10" cy="22" r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="17" cy="24" r="2.2" fill="#6B8C00" opacity="0.75"/>
+  <circle cx="24" cy="22" r="2.2" fill="#6B8C00" opacity="0.75"/>
+</svg>
