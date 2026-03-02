@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://pickleballaddicts.com/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Destination Pages -->
+  <url>
+    <loc>https://pickleballaddicts.com/destinations/naples-florida.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/destinations/palm-springs.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/destinations/jw-marriott-phoenix.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/destinations/omni-amelia-island.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/destinations/san-diego-coronado.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/destinations/sandals-caribbean.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/destinations/turtle-bay-oahu.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Gift Guides -->
+  <url>
+    <loc>https://pickleballaddicts.com/gift-guides/</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/gift-guides/best-pickleball-gifts-for-moms.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/gift-guides/best-pickleball-gifts-for-dads.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal -->
+  <url>
+    <loc>https://pickleballaddicts.com/privacy-policy.html</loc>
+    <lastmod>2026-03-02</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+
+</urlset>
