@@ -1,0 +1,417 @@
+/* Tips & Guides Article Styles */
+/* Uses CSS variables from main styles.css */
+
+/* Index Page Hero */
+.guides-index-hero {
+    background: linear-gradient(135deg, #1A2B38 0%, #0FA3B1 100%);
+    color: white;
+    padding: 5rem 2rem 4rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.guides-index-hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -10%;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(255, 179, 71, 0.2) 0%, transparent 70%);
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+.guides-index-hero-content {
+    max-width: 700px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+.guides-index-hero h1 {
+    font-family: var(--font-display);
+    font-size: 3.25rem;
+    font-weight: 800;
+    line-height: 1.1;
+    letter-spacing: -0.03em;
+    margin-bottom: 1.25rem;
+    text-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.guides-index-hero p {
+    font-size: 1.2rem;
+    opacity: 0.9;
+    line-height: 1.7;
+}
+
+/* Guide Card Grid (index page) */
+.guides-grid {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 2rem;
+}
+
+.guide-card {
+    background: white;
+    border: 2px solid #F0F0F5;
+    border-radius: 16px;
+    padding: 2rem;
+    text-decoration: none;
+    display: block;
+    transition: all var(--transition-smooth);
+}
+
+.guide-card:hover {
+    border-color: var(--color-primary);
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-md);
+}
+
+.guide-card-category {
+    font-family: var(--font-display);
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    color: var(--color-secondary);
+    margin-bottom: 0.75rem;
+}
+
+.guide-card h2 {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--color-text-dark);
+    letter-spacing: -0.01em;
+    margin-bottom: 0.75rem;
+}
+
+.guide-card p {
+    color: var(--color-text-medium);
+    line-height: 1.7;
+    font-size: 0.95rem;
+    margin-bottom: 1rem;
+}
+
+.guide-card .learn-more {
+    color: var(--color-primary);
+    font-weight: 600;
+    font-size: 0.9rem;
+}
+
+.guides-empty-state {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 4rem 2rem;
+    text-align: center;
+    color: var(--color-text-light);
+}
+
+/* Breadcrumb (article pages) */
+.breadcrumb {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 1.5rem 2rem 0;
+    font-size: 0.9rem;
+}
+
+.breadcrumb a {
+    color: var(--color-secondary);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color var(--transition-fast);
+}
+
+.breadcrumb a:hover {
+    color: var(--color-primary);
+}
+
+.breadcrumb span {
+    color: var(--color-text-light);
+    margin: 0 0.5rem;
+}
+
+/* Article Hero */
+.article-hero {
+    background: linear-gradient(135deg, #1A2B38 0%, #0FA3B1 100%);
+    color: white;
+    padding: 4.5rem 2rem 3.5rem;
+    text-align: center;
+    position: relative;
+    overflow: hidden;
+}
+
+.article-hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    right: -10%;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(255, 179, 71, 0.2) 0%, transparent 70%);
+    border-radius: 50%;
+    pointer-events: none;
+}
+
+.article-hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+    position: relative;
+    z-index: 1;
+}
+
+.article-tag {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(8px);
+    color: white;
+    padding: 0.4rem 1.25rem;
+    border-radius: 25px;
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    margin-bottom: 1.5rem;
+}
+
+.article-hero h1 {
+    font-family: var(--font-display);
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1.15;
+    letter-spacing: -0.03em;
+    margin-bottom: 1rem;
+    text-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.article-hero p {
+    font-size: 1.15rem;
+    opacity: 0.9;
+    line-height: 1.7;
+}
+
+/* Main Article Layout */
+.article-layout {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3.5rem 2rem 5rem;
+    display: grid;
+    grid-template-columns: 1fr 320px;
+    gap: 4rem;
+    align-items: start;
+}
+
+.article-main {
+    min-width: 0;
+}
+
+.article-intro {
+    font-size: 1.15rem;
+    line-height: 1.9;
+    color: var(--color-text-medium);
+    margin-bottom: 3rem;
+    padding-bottom: 2.5rem;
+    border-bottom: 3px solid #F0F0F5;
+}
+
+/* Content Sections (matches destination article typography) */
+.content-section {
+    margin-bottom: 3rem;
+}
+
+.content-section h2 {
+    font-family: var(--font-display);
+    color: var(--color-text-dark);
+    font-size: 1.85rem;
+    margin-bottom: 1.25rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    position: relative;
+    display: inline-block;
+}
+
+.content-section h2::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 0;
+    width: 50px;
+    height: 4px;
+    background: linear-gradient(90deg, var(--color-primary), var(--color-accent));
+    border-radius: 2px;
+}
+
+.content-section h3 {
+    font-family: var(--font-display);
+    color: var(--color-text-dark);
+    font-size: 1.35rem;
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    font-weight: 700;
+    letter-spacing: -0.01em;
+}
+
+.content-section p {
+    line-height: 1.85;
+    color: var(--color-text-medium);
+    margin-bottom: 1.25rem;
+    font-size: 1.02rem;
+}
+
+.content-section ul,
+.content-section ol {
+    margin-left: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.content-section li {
+    line-height: 1.85;
+    color: var(--color-text-medium);
+    margin-bottom: 0.65rem;
+    font-size: 1.02rem;
+}
+
+/* Affiliate Disclosure (only used when an article links to a product/booking) */
+.affiliate-disclosure-box {
+    background: linear-gradient(135deg, #FFF8E1, #FFE7BA);
+    border-left: 5px solid var(--color-accent);
+    padding: 1.25rem 1.5rem;
+    margin-bottom: 2.5rem;
+    border-radius: 8px;
+    font-size: 0.9rem;
+    color: #8B6914;
+    line-height: 1.7;
+}
+
+.affiliate-disclosure-box strong {
+    color: #6B5010;
+}
+
+/* Sidebar */
+.article-sidebar {
+    position: sticky;
+    top: 2rem;
+    height: fit-content;
+}
+
+.key-takeaways-box {
+    background: white;
+    border: 3px solid var(--color-primary);
+    border-radius: 16px;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    box-shadow: var(--shadow-md);
+}
+
+.key-takeaways-box h3 {
+    font-family: var(--font-display);
+    color: var(--color-text-dark);
+    font-size: 1.3rem;
+    margin-bottom: 1.25rem;
+    font-weight: 800;
+}
+
+.key-takeaways-box ul {
+    margin: 0;
+    padding-left: 1.25rem;
+}
+
+.key-takeaways-box li {
+    color: var(--color-text-medium);
+    line-height: 1.7;
+    margin-bottom: 0.85rem;
+    font-size: 0.95rem;
+}
+
+.key-takeaways-box li:last-child {
+    margin-bottom: 0;
+}
+
+.related-box {
+    background: var(--color-bg-light);
+    border-radius: 16px;
+    padding: 1.75rem;
+}
+
+.related-box h3 {
+    font-family: var(--font-display);
+    color: var(--color-text-dark);
+    font-size: 1.15rem;
+    margin-bottom: 1.25rem;
+    font-weight: 700;
+}
+
+.related-box ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.related-box li {
+    margin-bottom: 0.9rem;
+}
+
+.related-box a {
+    color: var(--color-secondary);
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    line-height: 1.5;
+    transition: color var(--transition-fast);
+}
+
+.related-box a:hover {
+    color: var(--color-primary);
+}
+
+/* Responsive */
+@media (max-width: 1024px) {
+    .article-layout {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+
+    .article-sidebar {
+        position: static;
+        max-width: 600px;
+        margin: 0 auto;
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .article-hero {
+        padding: 3.5rem 1.5rem 2.5rem;
+    }
+
+    .article-hero h1 {
+        font-size: 2.25rem;
+    }
+
+    .guides-index-hero h1 {
+        font-size: 2.25rem;
+    }
+
+    .article-layout {
+        padding: 2.5rem 1.5rem 4rem;
+    }
+
+    .content-section h2 {
+        font-size: 1.55rem;
+    }
+
+    .breadcrumb {
+        padding: 1rem 1rem 0;
+        font-size: 0.85rem;
+    }
+
+    .guides-grid {
+        padding: 3rem 1.5rem;
+    }
+}

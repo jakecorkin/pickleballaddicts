@@ -73,6 +73,20 @@
     <priority>0.7</priority>
   </url>
 
+  <!-- Guides -->
+  <url>
+    <loc>https://pickleballaddicts.com/guides/</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/guides/pickleball-rules-for-beginners.html</loc>
+    <lastmod>2026-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
   <!-- Legal -->
   <url>
     <loc>https://pickleballaddicts.com/privacy-policy.html</loc>
