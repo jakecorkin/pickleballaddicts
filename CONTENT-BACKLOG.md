@@ -92,13 +92,12 @@ Coronado.
 **Gift Guides:** Best Pickleball Gifts for Moms, Best Pickleball Gifts for
 Dads.
 
-**Guides:** Pickleball Rules for Beginners.
+**Guides:** Pickleball Rules for Beginners, How to Choose Your First Pickleball
+Paddle.
 
 ## Backlog
 
 **Tips & Guides (priority):**
-- How to Choose Your First Pickleball Paddle (weight, grip size, materials —
-  buying guide, not a specific-product review)
 - Pickleball Scoring Explained (deeper dive than the rules guide — rally
   scoring vs. traditional side-out, how to keep score in doubles)
 - Pickleball vs. Tennis: Key Differences for Crossover Players
@@ -109,6 +108,12 @@ Dads.
 - How to Prevent Common Pickleball Injuries (tennis elbow, ankle rolls)
 - What to Wear to Play Pickleball (court shoes vs. running shoes, etc.)
 - Indoor vs. Outdoor Pickleball: What Changes
+- When (and How) to Upgrade Your Pickleball Paddle (signals you've outgrown a
+  starter paddle, what actually changes at the next tier — distinct angle
+  from the first-paddle buying guide, natural next-step internal link target)
+- Pickleball Paddle Care & Maintenance (cleaning, storage, how weather/UV
+  affects polymer cores, how USA Pickleball's approved-paddle list and
+  re-approval process works if a manufacturer changes a model)
 
 **Destinations (occasional, high bar):**
 - Austin, TX pickleball scene

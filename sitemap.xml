@@ -76,13 +76,19 @@
   <!-- Guides -->
   <url>
     <loc>https://pickleballaddicts.com/guides/</loc>
-    <lastmod>2026-09-06</lastmod>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://pickleballaddicts.com/guides/pickleball-rules-for-beginners.html</loc>
     <lastmod>2026-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://pickleballaddicts.com/guides/how-to-choose-your-first-pickleball-paddle.html</loc>
+    <lastmod>2026-09-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
