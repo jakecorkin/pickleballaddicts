@@ -93,7 +93,7 @@ Coronado.
 Dads.
 
 **Guides:** Pickleball Rules for Beginners, How to Choose Your First Pickleball
-Paddle (2026-09-08).
+Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
 
 ## Backlog
 
@@ -103,7 +103,6 @@ Paddle (2026-09-08).
 - Pickleball vs. Tennis: Key Differences for Crossover Players
 - Pickleball Court Etiquette: Unwritten Rules Every Beginner Should Know
 - How to Find Open Play Near You (using court-finder apps/DUPR, public parks)
-- Understanding Pickleball Ratings (DUPR, self-rating, tournament ratings)
 - Best Practice Drills for Beginners to Improve Fast
 - How to Prevent Common Pickleball Injuries (tennis elbow, ankle rolls)
 - What to Wear to Play Pickleball (court shoes vs. running shoes, etc.)
@@ -117,6 +116,16 @@ Paddle (2026-09-08).
   What Cities/HOAs Require (noise ordinances are a recurring real pain point
   that came up repeatedly while researching paddle core materials; would need
   dedicated research into actual city ordinances/decibel rules before writing)
+- The Third Shot Drop, Step by Step (noticed while researching skill-level
+  definitions for the ratings guide — this single shot is what separates a
+  3.0 from a 3.5/4.0 player and repeatedly came up as its own topic in
+  competitor content; would pair well with a follow-on dinking guide)
+- Pickleball Dinking: How to Win the Kitchen-Line Battle (same research
+  trail as the third shot drop — dinking is the other skill that
+  consistently defines the jump from 3.0 to 4.0)
+- How to Get Started with DUPR (practical follow-on to "Understanding
+  Pickleball Ratings" — creating a profile, which clubs/apps auto-sync
+  results, how to log a casual match yourself)
 
 **Destinations (occasional, high bar):**
 - Austin, TX pickleball scene
