@@ -93,15 +93,25 @@ Coronado.
 Dads.
 
 **Guides:** Pickleball Rules for Beginners, How to Choose Your First Pickleball
-Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
+Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09), Pickleball
+Court Etiquette: Unwritten Rules Every Beginner Should Know (2026-09-11).
 
 ## Backlog
 
 **Tips & Guides (priority):**
 - Pickleball Scoring Explained (deeper dive than the rules guide — rally
-  scoring vs. traditional side-out, how to keep score in doubles)
+  scoring vs. traditional side-out, how to keep score in doubles). Note from
+  2026-09-11 research: the core side-out/doubles-scoring mechanics are easy
+  to verify (multiple consistent independent sources), but the rally-scoring
+  side (freeze rule specifics, which pro leagues currently use it and to what
+  point total, any 2026 rule changes) turned up thin, sometimes
+  self-contradictory SEO content with no reachable primary source (usapickleball.org
+  and majorleaguepickleball.co are both blocked in this environment's egress
+  policy) to cross-check against. A future run should either lean the piece
+  almost entirely on the well-verified side-out/doubles mechanics and cut the
+  rally-scoring section down to a short, heavily-hedged paragraph, or hold
+  off until primary sources are reachable.
 - Pickleball vs. Tennis: Key Differences for Crossover Players
-- Pickleball Court Etiquette: Unwritten Rules Every Beginner Should Know
 - How to Find Open Play Near You (using court-finder apps/DUPR, public parks)
 - Best Practice Drills for Beginners to Improve Fast
 - How to Prevent Common Pickleball Injuries (tennis elbow, ankle rolls)
