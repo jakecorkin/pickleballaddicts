@@ -73,6 +73,17 @@ fine, and preferred, for a run to end with "researched but decided this topic
 wasn't strong enough" or "added 3 candidates to the backlog, didn't draft
 anything this run."
 
+**2026-09-12 run note:** Checked open PRs before picking a topic and found
+PR #5 (Pickleball Court Etiquette) already open against `main` from
+2026-09-11, CI green, awaiting human merge. Combined with 3 already-merged
+guides this same week (Sun 09-06, Tue 09-08, Wed 09-09), that's already at
+the top of the 2-4/week target once #5 merges. Did the day's research (see
+sourcing notes added below) but deliberately did not draft/open a new
+content PR this run to avoid stacking a second unreviewed PR on top of #5
+and overshooting weekly cadence. Future runs: check open PRs first, not
+just `Already Published`, since a same-week PR can cover a backlog topic
+before it's merged into this file.
+
 ## Research signals
 
 No live GA4 or Search Console API access is wired up yet — this pipeline
@@ -100,11 +111,22 @@ Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
 **Tips & Guides (priority):**
 - Pickleball Scoring Explained (deeper dive than the rules guide — rally
   scoring vs. traditional side-out, how to keep score in doubles)
-- Pickleball vs. Tennis: Key Differences for Crossover Players
+- Pickleball vs. Tennis: Key Differences for Crossover Players. Note from
+  2026-09-12 research: strong, easy topic — court/net dimensions, paddle vs.
+  racquet weight, serve rules, and the two-bounce rule are all consistent
+  across independent sources (Paddletek, The Dink, PickleballUS,
+  MyPickleballGear). Ready to draft next run without further research.
 - Pickleball Court Etiquette: Unwritten Rules Every Beginner Should Know
 - How to Find Open Play Near You (using court-finder apps/DUPR, public parks)
 - Best Practice Drills for Beginners to Improve Fast
-- How to Prevent Common Pickleball Injuries (tennis elbow, ankle rolls)
+- How to Prevent Common Pickleball Injuries (tennis elbow, ankle rolls). Note
+  from 2026-09-12 research: the core injury types (ankle sprains, tennis
+  elbow, knee pain) and the ESPN piece citing peer-reviewed ankle-stress and
+  ER-visit data are solid, citable sources. Several other "statistics" sites
+  that rank for this topic (gitnux, wifitalents, and similar aggregator
+  sites) republish numbers with no traceable original study — avoid citing
+  those directly; stick to ESPN, sports-medicine outlets, and any number
+  that traces to an actual peer-reviewed study or named survey.
 - What to Wear to Play Pickleball (court shoes vs. running shoes, etc.)
 - Indoor vs. Outdoor Pickleball: What Changes
 - How to Care for and Maintain Your Pickleball Paddle (cleaning, storage
@@ -126,6 +148,17 @@ Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
 - How to Get Started with DUPR (practical follow-on to "Understanding
   Pickleball Ratings" — creating a profile, which clubs/apps auto-sync
   results, how to log a casual match yourself)
+- USA Pickleball's 2026 Rulebook Changes: What's New This Year (new
+  candidate, added 2026-09-12 — timely and well-sourced: USA Pickleball
+  published an official rule-change PDF this year, and it's independently
+  summarized/cross-checked by Selkirk, The Dink, JustPaddles, and pb5star.
+  Highlights: "clearly" added to all three volley-serve requirements,
+  a formal adaptive/wheelchair play division, paddles must show "USA
+  Pickleball Approved" markings and appear on the official list, a visible
+  second ball during a live rally is now a fault, and referees can issue
+  warnings/technical fouls during warm-up. Good evergreen-with-a-news-hook
+  angle; re-verify against the official PDF before drafting since rulebook
+  pages can be revised.)
 
 **Destinations (occasional, high bar):**
 - Austin, TX pickleball scene
