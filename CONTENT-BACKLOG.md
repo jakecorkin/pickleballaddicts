@@ -93,7 +93,8 @@ Coronado.
 Dads.
 
 **Guides:** Pickleball Rules for Beginners, How to Choose Your First Pickleball
-Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
+Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09), The Third
+Shot Drop, Step by Step (2026-09-13).
 
 ## Backlog
 
@@ -116,13 +117,19 @@ Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
   What Cities/HOAs Require (noise ordinances are a recurring real pain point
   that came up repeatedly while researching paddle core materials; would need
   dedicated research into actual city ordinances/decibel rules before writing)
-- The Third Shot Drop, Step by Step (noticed while researching skill-level
-  definitions for the ratings guide — this single shot is what separates a
-  3.0 from a 3.5/4.0 player and repeatedly came up as its own topic in
-  competitor content; would pair well with a follow-on dinking guide)
 - Pickleball Dinking: How to Win the Kitchen-Line Battle (same research
   trail as the third shot drop — dinking is the other skill that
-  consistently defines the jump from 3.0 to 4.0)
+  consistently defines the jump from 3.0 to 4.0; natural follow-on now that
+  the third shot drop guide is live and can cross-link to it)
+- Mastering the Transition Zone ("No Man's Land"): Footwork and the Reset
+  Shot (came up repeatedly while researching the third shot drop — a good
+  third gets you to the kitchen, but players still get stuck mid-court on
+  the shot after that; the "reset" shot and transition footwork are a
+  distinct enough topic to merit their own guide)
+- The Third Shot Lob: A Situational Weapon (noticed while researching
+  third shot drop vs. drive — a third, rarer option worth its own short
+  guide once the drop and drive/dink content is established, since it only
+  makes sense in context of those)
 - How to Get Started with DUPR (practical follow-on to "Understanding
   Pickleball Ratings" — creating a profile, which clubs/apps auto-sync
   results, how to log a casual match yourself)
