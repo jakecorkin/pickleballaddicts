@@ -93,13 +93,12 @@ Coronado.
 Dads.
 
 **Guides:** Pickleball Rules for Beginners, How to Choose Your First Pickleball
-Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
+Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09), Pickleball
+Scoring Explained (2026-09-14).
 
 ## Backlog
 
 **Tips & Guides (priority):**
-- Pickleball Scoring Explained (deeper dive than the rules guide — rally
-  scoring vs. traditional side-out, how to keep score in doubles)
 - Pickleball vs. Tennis: Key Differences for Crossover Players
 - Pickleball Court Etiquette: Unwritten Rules Every Beginner Should Know
 - How to Find Open Play Near You (using court-finder apps/DUPR, public parks)
@@ -134,5 +133,13 @@ Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
 - Las Vegas pickleball resorts
 - Myrtle Beach, SC
 
-**Needs more research before adding to backlog:** none currently — add
-candidates here as they come up.
+**Needs more research before adding to backlog:**
+- Pickleball Timeouts and Game Stoppages Explained (timeout counts/limits,
+  technical timeouts, medical timeouts) — came up while researching the
+  scoring guide; needs its own dedicated source-checking pass since exact
+  timeout counts vary by rec play vs. sanctioned tournament play.
+- USA Pickleball's Broader 2026 Rule Changes (beyond scoring) — the same
+  2026 rulebook change document that covers rally scoring also touches
+  adaptive divisions and serve clarifications; worth a dedicated guide once
+  those specific changes are individually verified against the official
+  rulebook change PDF rather than secondary summaries.
