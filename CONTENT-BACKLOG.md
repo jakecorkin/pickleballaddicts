@@ -93,13 +93,12 @@ Coronado.
 Dads.
 
 **Guides:** Pickleball Rules for Beginners, How to Choose Your First Pickleball
-Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
+Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09), Pickleball
+Scoring Explained (2026-09-15).
 
 ## Backlog
 
 **Tips & Guides (priority):**
-- Pickleball Scoring Explained (deeper dive than the rules guide — rally
-  scoring vs. traditional side-out, how to keep score in doubles)
 - Pickleball vs. Tennis: Key Differences for Crossover Players
 - Pickleball Court Etiquette: Unwritten Rules Every Beginner Should Know
 - How to Find Open Play Near You (using court-finder apps/DUPR, public parks)
@@ -126,6 +125,15 @@ Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
 - How to Get Started with DUPR (practical follow-on to "Understanding
   Pickleball Ratings" — creating a profile, which clubs/apps auto-sync
   results, how to log a casual match yourself)
+- PPA Tour vs. APP Tour vs. MLP: What's Actually Different (noticed while
+  researching the scoring guide — the three pro circuits now differ not
+  just on scoring format but on team structure, event formats, and where to
+  watch; would need dedicated research into each tour's current rules/TV
+  deals since this changes year to year)
+- How to Keep Score When You're Refereeing or Working the Scoreboard at a
+  Local Tournament (practical, underserved angle distinct from the
+  player-facing scoring guide — line-judge/scorekeeper calls, common
+  disputes, when to ask for a rally replay)
 
 **Destinations (occasional, high bar):**
 - Austin, TX pickleball scene
