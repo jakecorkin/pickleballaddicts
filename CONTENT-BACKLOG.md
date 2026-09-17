@@ -93,15 +93,29 @@ Coronado.
 Dads.
 
 **Guides:** Pickleball Rules for Beginners, How to Choose Your First Pickleball
-Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
+Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09), Pickleball
+Court Etiquette (2026-09-17).
 
 ## Backlog
 
 **Tips & Guides (priority):**
 - Pickleball Scoring Explained (deeper dive than the rules guide — rally
-  scoring vs. traditional side-out, how to keep score in doubles)
+  scoring vs. traditional side-out, how to keep score in doubles). NOTE from
+  2026-09-17 research: usapickleball.org is unreachable from this pipeline's
+  network (egress-blocked), and web search results for this topic were
+  unusually inconsistent/contradictory across secondary sources — several
+  SEO sites claimed a "2026 rule change" eliminating the side-out "freeze"
+  rule at game point, but this could not be corroborated against a primary
+  source and other sources contradicted each other on whether Major League
+  Pickleball still uses rally scoring at all. The stable core facts (11
+  points, win by 2, three-number score call, doubles two-servers-per-side-out
+  exception) are already covered in the rules-for-beginners guide. A future
+  run should only tackle this topic if usapickleball.org (or another
+  authoritative primary source) becomes reachable, or if a source search
+  turns up consistent, corroborated details on the doubles serving-position
+  rotation (right/left court by even/odd score) and rally-scoring specifics
+  worth a dedicated "deeper dive" page.
 - Pickleball vs. Tennis: Key Differences for Crossover Players
-- Pickleball Court Etiquette: Unwritten Rules Every Beginner Should Know
 - How to Find Open Play Near You (using court-finder apps/DUPR, public parks)
 - Best Practice Drills for Beginners to Improve Fast
 - How to Prevent Common Pickleball Injuries (tennis elbow, ankle rolls)
@@ -126,6 +140,13 @@ Paddle (2026-09-08), Understanding Pickleball Ratings (2026-09-09).
 - How to Get Started with DUPR (practical follow-on to "Understanding
   Pickleball Ratings" — creating a profile, which clubs/apps auto-sync
   results, how to log a casual match yourself)
+- Pickleball "Stacking" Strategy Explained (doubles positioning strategy where
+  partners line up on the same side before a serve/return to keep a
+  favored player on their stronger side — noticed while researching court
+  etiquette that "stacking" is a confusingly overloaded term: the etiquette
+  guide covers the unrelated paddle-queue meaning, and a dedicated strategy
+  guide would resolve the ambiguity while covering real intermediate-level
+  content)
 
 **Destinations (occasional, high bar):**
 - Austin, TX pickleball scene
